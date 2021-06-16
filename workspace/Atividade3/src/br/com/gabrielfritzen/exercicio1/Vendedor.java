@@ -1,5 +1,6 @@
 /**
- * 
+ * Classe que implementa Vendedor, parte da solução para o
+ * primeiro exercício da Atividade Avaliativa 3 - POO2
  */
 package br.com.gabrielfritzen.exercicio1;
 
